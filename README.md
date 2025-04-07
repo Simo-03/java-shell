@@ -1,6 +1,6 @@
-![StudentHack Winner](https://img.shields.io/badge/StudentHack2025-Winner-blueviolet)
 
-# Java Shell
+
+# Java Shell ![StudentHack Winner](https://img.shields.io/badge/StudentHack2025-Winner-blueviolet)
 
 A lightweight shell implementation written in Java, developed for the StudentHack 2025 hackathon (hosted by the University of Manchester), where it secured 1st place in the individual challenge.
 While Java isn't the conventional choice for shell development, this project showcases how it can be leveraged to build a functional, responsive, and feature-rich command-line interface from scratch.
