@@ -1,3 +1,5 @@
+![StudentHack Winner](https://img.shields.io/badge/StudentHack2025-Winner-blueviolet)
+
 # Java Shell
 
 A lightweight shell implementation written in Java, developed for the StudentHack 2025 hackathon (hosted by the University of Manchester), where it secured 1st place in the individual challenge.
